@@ -1,0 +1,4 @@
+ncatted -a coordinates,Uwind,a,c,"lon lat" -a coordinates,Vwind,a,c,"lon lat" -a coordinates,Pair,a,c,"lon lat" -a coordinates,cloud,a,c,"lon lat" -a coordinates,Qair,a,c,"lon lat" -a coordinates,Tair,a,c,"lon lat" -a coordinates,swrad,a,c,"lon lat" -a coordinates,rain,a,c,"lon lat" -a coordinates,lwrad,a,c,"lon lat" -a coordinates,sst,a,c,"lon lat" -a coordinates,tide_Cangle,a,c,"lon lat" -a coordinates,tide_Cmax,a,c,"lon lat" -a coordinates,tide_Cmin,a,c,"lon lat" -a coordinates,tide_Cphase,a,c,"lon lat" -a coordinates,tide_Eamp,a,c,"lon lat" -a coordinates,tide_Ephase,a,c,"lon lat" /media/sf_Swap-between-windows-linux/New_Grid/Meteo_coastline_shifted/Climatology_Meteo.nc
+
+ncatted -a coordinates,M2_NudgeCoef,a,c,"lon lat" -a coordinates,M3_NudgeCoef,a,c,"lon lat" -a coordinates,temp_NudgeCoef,a,c,"lon lat" -a coordinates,salt_NudgeCoef,a,c,"lon lat" Nudging_parent.nc
+
